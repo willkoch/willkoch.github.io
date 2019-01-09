@@ -24,7 +24,11 @@
         "network": "linkedin",
         "username": "kochwilliam",
         "url": "https://www.linkedin.com/in/kochwilliam/"
-      }
+      },
+      {
+        "network": "email",
+        "username": "wkoch530",
+        "url": "mailto:wkoch530@gmail.com"
     ]
   },
   "interests": [
