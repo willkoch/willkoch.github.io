@@ -126,7 +126,7 @@
       ]
     }
   ],
-/*  "volunteer": [
+  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -152,8 +152,8 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ], */
- /* "awards": [
+  ], 
+  "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -166,7 +166,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],*/
+  ],
   "references": [
     {
       "name": "Available upon request",
