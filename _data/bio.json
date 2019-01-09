@@ -2,7 +2,7 @@
   "basics": {
     "name": "Will Koch",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/WIN_20190107_13_41_49_Pro.jpg",
+    "picture": "https://willkoch.github.io/images/WIN_20190107_13_41_49_Pro.jpg",
     "email": "kochwill@hawaii.edu",
     "phone": "518-813-6101",
     "website": "https://willkoch.github.io",
@@ -29,15 +29,10 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "high-performance computing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
+        "",
+        ""
       ]
     },
     {
@@ -51,8 +46,6 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
         "Assembly",
@@ -63,53 +56,72 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2019-01-07",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "State University of New York at Buffalo, Buffalo, NY",
+      "area": "Computer Science",
+      "studyType": "Continuing Education",
+      "startDate": "2016-05",
+      "endDate": "2018-08",
+      "gpa": "3.86",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "State University of New York at Geneseo, Geneseo, NY",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2011-08",
+      "endDate": "2015-05",
+      "gpa": "3.63",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Oath (now Verizon Media)",
+      "position": "Incident Management",
+      "website": "https://www.oath.com/",
+      "startDate": "2016-02-16",
+      "endDate": "2018-12-26",
+      "summary": "Facilitated resolution of user and revenue impacting outages.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "As senior member of the team, managed training documentation and audit processes",
+        "Coordinated resolution of outages impacting millions of users and dollars in lost revenue"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Yahoo",
+      "position": "Customer Care Specialist",
+      "website": "http://www.yahoo.com",
+      "startDate": "2014-06-16",
+      "endDate": "2016-02-15",
+      "summary": "Direct support for users facing accounts and billing issues",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communicated through phone/email/chat with users to resolve issues",
+        "Trained in specialized support of billing issues for a variety of products"
       ]
     }
   ],
-  "volunteer": [
+/*  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -135,8 +147,8 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
-  "awards": [
+  ], */
+ /* "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -149,7 +161,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],*/
   "references": [
     {
       "name": "Available upon request",
