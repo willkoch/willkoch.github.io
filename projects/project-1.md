@@ -22,7 +22,9 @@ One of the first Computer Science and Engineering classes I took was CSE379 - In
 
 The project was meant to be done in a group of 2-3, however my partner resigned the class a month in, well before development on the game itself had even begun. This being my first real foray into any sort of programming, I was pushed to my limits just to finish. I logged as much extra lab time as physically possible. The resulting program was roughly 3,000 lines of original code. It successfully recreated a rudimentary version of Dig Dug, visualized for the user through a string displayed in the console that was continually rewritten to track player and enemy movement. Various I/O devices on the board were used to display additional information to the user, such as their number of lives. 
 
-To give an example, here is one subroutine:
+If nothing else, this project thoroughly imprinted on me just how lucky modern developers are to primarily work with high level programming languages. Assembly language gives so much more insight into how the computer actually works than the higher level languages, but it is at a huge cost of time and energy. After heavily utilizing assembly language, you get a warm fuzzy feeling every time you aree able to implement a simple loop in one line of code instead of ten. 
+
+To give an example, here is one subroutine from within the game:
 
 ```s
 ;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
