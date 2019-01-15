@@ -4,15 +4,15 @@
     "label": "Student",
     "picture": "https://willkoch.github.io/images/WIN_20190107_13_41_49_Pro.jpg",
     "email": "kochwill@hawaii.edu",
-    "phone": "518-813-6101",
     "website": "https://willkoch.github.io",
     "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "phone": "518-813-6101",
     "location": {
-      "address": "",
+      "address": "2708 Kolo Pl, APT 202",
       "postalCode": "96826",
       "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaii",
+      "countryCode": "USA"
     },
     "profiles": [
       {
@@ -30,20 +30,15 @@
   "interests": [
     {
       "name": "high-performance computing",
-      "keywords": [
-        "",
-        ""
-      ]
+      "keywords": []
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "robotics",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -76,8 +71,7 @@
       "startDate": "2019-01-07",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "State University of New York at Buffalo, Buffalo, NY",
@@ -86,8 +80,7 @@
       "startDate": "2016-05",
       "endDate": "2018-08",
       "gpa": "3.86",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "State University of New York at Geneseo, Geneseo, NY",
@@ -96,8 +89,7 @@
       "startDate": "2011-08",
       "endDate": "2015-05",
       "gpa": "3.63",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -126,20 +118,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "temp",
-      "website": "http://workinprogress.com",
-      "position": "wip",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "temp",
-      "highlights": [
-        "temp",
-        "temp"
-      ]
-    }
-  ], 
   "Certifications": [
     {
       "title": "Cisco Certified Network Associate, Routing and Switching",
