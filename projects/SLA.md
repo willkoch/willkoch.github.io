@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.joetheitguy.com/wp-content/uploads/blog-images/minified/SLA-tips-min.jpg
+image: ..images/oath.png
 title: Slack SLA Management Reminder Tool
 permalink: projects/SLA
 # All dates must be YYYY-MM-DD format!
