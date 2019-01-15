@@ -11,7 +11,7 @@ labels:
   - Slack
   - SLA
   - ITSM
-summary: Slack SLA Management Reminder
+summary: I created a tool to monitor SLAs for internal communications and notify those required to follow them in Slack.
 ---
 
 <img class="ui medium right floated rounded image" src="https://www.joetheitguy.com/wp-content/uploads/blog-images/minified/SLA-tips-min.jpg">
