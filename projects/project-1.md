@@ -77,6 +77,7 @@ enddirection1
 
 The full code is available in my github repo, along with the final lab report that accompanied the project.
 
-<a href="https://github.com/willkoch/DigDug"><i class="large github icon"></i>DigDug Project Repo/vacay</a>
+<a href="https://github.com/willkoch/DigDug"><i class="large github icon"></i>DigDug Project Repo</a>
+
 
 
