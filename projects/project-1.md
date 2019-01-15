@@ -73,7 +73,7 @@ enddirection1
 ```
 
 
-The full code is available in my github repo, along with the final Lab report that accompanied the project.
+The full code is available in my github repo, along with the final lab report that accompanied the project.
 
 [DigDug Project Repo](https://github.com/willkoch/DigDug)
 
