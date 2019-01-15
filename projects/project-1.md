@@ -5,7 +5,7 @@ image: images/Dig_Dug.png
 title: Dig Dug in ARM Assembly
 permalink: projects/dig-dug
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-05-05
 labels:
   - Assembly
   - game design
