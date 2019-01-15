@@ -14,6 +14,10 @@ summary: For the final project in CSE 379 at the State University of New York at
 ---
 
 
+<img class="ui medium right floated rounded image" src="../images/digdug2.png">
+
+
+
 One of the first Computer Science and Engineering classes I took was CSE379 - Introduction to Microprocessors at SUNY at Buffalo. The course was designed to allow us to recreate a classic arcade game from the ground up in assembly language, as many games were originally written at the time. Labs began with the basic building blocks of a program such as loading, storing and utilizing the available registers. Using these building blocks we would be able to build our game over time during the semester, with the final weeks of the class spent entirely on this endeavor. 
 
 The project was meant to be done in a group of 2-3, however my partner resigned the class a month in, well before development on the game itself had even begun. This being my first real foray into any sort of programming, I was pushed to my limits just to finish. I logged as much extra lab time as physically possible. The resulting program was roughly 3,000 lines of original code. It successfully recreated a rudimentary version of Dig Dug, visualized for the user through a string displayed in the console that was continually rewritten to track player and enemy movement. Various I/O devices on the board were used to display additional information to the user, such as their number of lives. 
