@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/oath.png
+image: images/itsm.webp
 title: Slack SLA Management Reminder Tool
 permalink: projects/SLA
 # All dates must be YYYY-MM-DD format!
