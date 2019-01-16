@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/javascript.png">
+<img class="ui large right circular floated image" src="../images/javascript.png">
 
 I call this starting over with Javascript because taking a software engineering course is not entirely my first experience with it. I have not used Javascript itself particularly often, but I have spent a lot of time using Google Apps Script. I found it extremely useful for automating small productivity and quality assurance tools in my last job in coordination with Google Sheets. That being said, this is my first time where I will be going past simple data manipulation and API usage. 
 
