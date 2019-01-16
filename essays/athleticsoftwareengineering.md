@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Starting Over With Javascript Utilizing Athletic Software Engineering
+title: Starting Over With Javascript, Utilizing Athletic Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-15
 labels:
