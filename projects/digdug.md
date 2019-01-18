@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Dig_Dug.png
 title: Dig Dug in ARM Assembly
-permalink: projects/dig-dug
+permalink: projects/digdug
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-05
 labels:
