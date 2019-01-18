@@ -13,7 +13,7 @@ summary: An initiative I led to update documentation for the team I was part of 
 ---
 
 
-During a series of changes in company organization, it was necessary during my time with Yahoo (at that time now part of Oath) to migrate documentation from one platform to another. This opened up an excellent opportunity to review all that documentation and go through a review and refresh process. 
+During a series of changes in company organization, it was necessary during my time with Yahoo (newly under the Oath umbrella at that time) to migrate documentation from one platform to another. This opened up an excellent opportunity to review all that documentation and go through a review and refresh process. 
 
 The goals of this process were: 
   - Move documentation to the new platform, consolidating it from a variety of other sources. 
