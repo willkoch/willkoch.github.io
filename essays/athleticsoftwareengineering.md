@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large right circular floated image" src="../images/javascript.png">
+<img class="ui large right rectangular floated image" src="../images/javascript.png">
 
 ## The Language
 
