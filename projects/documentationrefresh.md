@@ -17,7 +17,7 @@ During a series of changes in company organization, it was necessary during my t
 
 The goals of this process were: 
   - Move documentation to the new platform, consolidating it from a variety of other sources. 
-  - Review documentation content to ensure it was up-to-date.
+  - Review documentation content to ensure it was up-to-date and reflected current processes.
   - Archive documentation that was no longer relevant, or combine redundant documentation.
   - Create a log of everything that would serve as both a table of contents and guide for future documentation refresh efforts
   
