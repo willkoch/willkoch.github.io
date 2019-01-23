@@ -27,10 +27,10 @@ Posting a great, intriguing question can fix your problems while also teaching y
 <img class="ui large centered rectangular image" src="../images/Essay3img1.JPG">
 
 There are a few specific parts of this successful question to point out:
-The title follows the “object-deviation” header convention, this allows anyone viewing the question to instantly know whether or not they have experience in the area. “Hey, i know all about list processing in Java 8, i’ll take a look,” is the desired outcome. 
-Not only was the subject of the question well put, but relevant tags were added to properly filter the question to the best audience for it.
-The author has included the exact code snippet that they have already created with a method of solving the problem, but one that they wish to improve on. This means readers don’t have to recreate anything, saving them time. 
-The author edited in additional information, indicating they were monitoring this in realtime and saw that they could head off the first question many people ask with additional information in the original post.
+- The title follows the “object-deviation” header convention, this allows anyone viewing the question to instantly know whether or not they have experience in the area. “Hey, i know all about list processing in Java 8, i’ll take a look,” is the desired outcome. 
+- Not only was the subject of the question well put, but relevant tags were added to properly filter the question to the best audience for it.
+- The author has included the exact code snippet that they have already created with a method of solving the problem, but one that they wish to improve on. This means readers don’t have to recreate anything, saving them time. 
+- The author edited in additional information, indicating they were monitoring this in realtime and saw that they could head off the first question many people ask with additional information in the original post.
 
 The way the previous question was asked got a fully explained, useful answer in about 20 minutes, just about the best case scenario possible. So what happens when you don’t make good choices in asking your question?
 
@@ -42,9 +42,9 @@ As you will see, the following example comes from none other than a student. Unf
 <img class="ui large centered rectangular image" src="../images/Essay3img3.JPG">
 
 So in contrasting the above question with our previously discussed successful question, a lot jumps out right away. We can say that, to his credit, Marius provided code samples, however these samples are just a guess as to where the problem lies. There is who knows how much code not shared and one must just take his word that anything in the snippets is relevant to the error. Past this, the title of the post is particularly terrible for attracting useful help. “App Crashing. Why?” provides almost zero useful information. Just to give a quick synopsis of what it does not provide:
-Platform
-Programming Language
-Conditions for crash
+- Platform
+- Programming Language
+- Conditions for crash
 
 Those three things are basically the holy trinity of what information is necessary to even start debugging. The tags give us a bit of information (Java, android, crash) however they still leave you wanting. 
 
