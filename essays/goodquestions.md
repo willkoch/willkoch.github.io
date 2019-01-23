@@ -13,14 +13,14 @@ labels:
 
 
 
-##Questions, Please
+## Questions, Please
 
 Asking a question as a developer can be one of the hardest things to do correctly. I know for myself, I start off every project wanting to do it entirely on my own. The thing is, several hours into a difficult problem that mentality tends to change very quickly. I get to a state of mental exhaustion with a  bug or malfunction where I just want to put the whole thing on the internet and see who is willing to help. It is easy to look for that out when you know that places like Stack Overflow exist.
 
 
 The thing is, a lot of stuff I have done as a student is only relevant to other students. As a student, I also haven’t really been on the other side of the equation; I don’t have a lot of expertise to share. These factors can lead to a lot of bad questions by students in these online forums. Truly basic questions, questions that already have well documented resolutions, poorly phrased questions, questions asked in the wrong place...all of these are common problems to see. 
 
-##So What Can A Smart Question Get You?
+## So What Can A Smart Question Get You?
 
 Posting a great, intriguing question can fix your problems while also teaching you something new. I think in most cases, that is what everyone asking a question strives for, but execution varies wildly. Take the post below as an example, this is what you want:
 
@@ -34,7 +34,7 @@ The author edited in additional information, indicating they were monitoring thi
 
 The way the previous question was asked got a fully explained, useful answer in about 20 minutes, just about the best case scenario possible. So what happens when you don’t make good choices in asking your question?
 
-#Turns Out, There Is Such A Thing As A Bad Question
+## Turns Out, There Is Such A Thing As A Bad Question
 
 As you will see, the following example comes from none other than a student. Unfortunately for Marius, he did not receive the help that he needed, although those answering tried to be constructive, more than some would say he deserved.
 
@@ -50,6 +50,6 @@ Those three things are basically the holy trinity of what information is necessa
 
 Unsurprisingly, Marius does not get much help from this question. There is only one top level response and it comes eight days after the question was posed. The responses he does get can only guess at the problem themselves, really the answer is for Marius to do his due diligence debugging. The errors provided by Java can be quite descriptive in identifying the problem, and this is what the responses primarily try to point out. 
 
-##Results Of This Short Case Study
+## Results Of This Short Case Study
 
 After this “scientific” study with a sample size of two, there are some conclusions that can be haphazardly drawn. First is that a title is important for visibility, and this is paramount for targeting your audience as well. Secondly, when including code make sure that you aren’t inserting an epic novel, keep it short, sweet and relevant. Lastly, put the work in, people want to help those that help themselves, and detailing your attempts at the solution or debugging prevents redundant work by those trying to help. 
