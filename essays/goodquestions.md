@@ -24,7 +24,7 @@ The thing is, a lot of stuff I have done as a student is only relevant to other 
 
 Posting a great, intriguing question can fix your problems while also teaching you something new. I think in most cases, that is what everyone asking a question strives for, but execution varies wildly. Take the post below as an example, this is what you want:
 
-<img class="ui large rectangular image" src="../images/Essay3img1.JPG">
+<img class="ui large centered rectangular image" src="../images/Essay3img1.JPG">
 
 There are a few specific parts of this successful question to point out:
 The title follows the “object-deviation” header convention, this allows anyone viewing the question to instantly know whether or not they have experience in the area. “Hey, i know all about list processing in Java 8, i’ll take a look,” is the desired outcome. 
@@ -38,8 +38,8 @@ The way the previous question was asked got a fully explained, useful answer in 
 
 As you will see, the following example comes from none other than a student. Unfortunately for Marius, he did not receive the help that he needed, although those answering tried to be constructive, more than some would say he deserved.
 
-<img class="ui large rectangular image" src="../images/Essay3img2.JPG">
-<img class="ui large rectangular image" src="../images/Essay3img3.JPG">
+<img class="ui large centered rectangular image" src="../images/Essay3img2.JPG">
+<img class="ui large centered rectangular image" src="../images/Essay3img3.JPG">
 
 So in contrasting the above question with our previously discussed successful question, a lot jumps out right away. We can say that, to his credit, Marius provided code samples, however these samples are just a guess as to where the problem lies. There is who knows how much code not shared and one must just take his word that anything in the snippets is relevant to the error. Past this, the title of the post is particularly terrible for attracting useful help. “App Crashing. Why?” provides almost zero useful information. Just to give a quick synopsis of what it does not provide:
 Platform
