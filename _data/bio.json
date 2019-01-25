@@ -94,14 +94,14 @@
   ],
   "work": [
     {
-      "company": "Oath (now Verizon Media)",
+      "company": "Yahoo, then Oath (now Verizon Media)",
       "position": "Incident Management",
       "website": "https://www.oath.com/",
       "startDate": "2016-02-16",
       "endDate": "2018-12-26",
       "summary": "Facilitated resolution of user and revenue impacting outages.",
       "highlights": [
-        "As senior member of the team, managed training documentation and audit processes",
+        "As senior member of the team, managed training, documentation and audit processes",
         "Coordinated resolution of outages impacting millions of users and dollars in lost revenue"
       ]
     },
