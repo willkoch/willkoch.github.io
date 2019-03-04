@@ -96,14 +96,14 @@
      {
       "company": "University of Hawaii",
       "position": "ITS Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "http://www.hawaii.edu/its",
       "startDate": "2019-01-31",
       "summary": "Technical support for Students, Faculty, Staff and Affiliates of the University.",
     },
     {
       "company": "Yahoo, then Oath (now Verizon Media)",
       "position": "Incident Management",
-      "website": "https://www.oath.com/",
+      "website": "https://www.oath.com",
       "startDate": "2016-02-16",
       "endDate": "2018-12-26",
       "summary": "Facilitated resolution of user and revenue impacting outages.",
