@@ -75,7 +75,7 @@
     },
     {
       "institution": "State University of New York at Buffalo, Buffalo, NY",
-      "area": "Computer Science",
+      "area": "Computer Science and Engineering",
       "studyType": "Continuing Education",
       "startDate": "2016-05",
       "endDate": "2018-08",
@@ -93,6 +93,13 @@
     }
   ],
   "work": [
+     {
+      "company": "University of Hawaii",
+      "position": "ITS Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-01-31",
+      "summary": "Technical support for Students, Faculty, Staff and Affiliates of the University.",
+    },
     {
       "company": "Yahoo, then Oath (now Verizon Media)",
       "position": "Incident Management",
