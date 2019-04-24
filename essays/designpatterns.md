@@ -15,9 +15,9 @@ labels:
 
 The answer to this provocative question is...when it has already been solved! Time is the greatest of scarce resources, and if you have done this you have squandered it. 
 
-<img class="ui large center circular floated image" src="https://miro.medium.com/max/966/1*MI6MyiERSjPzPbXSjmgqbw.jpeg">
+<img class="ui large center floated image" src="https://miro.medium.com/max/966/1*MI6MyiERSjPzPbXSjmgqbw.jpeg">
 
-In programming, novel problems still abound on the fringes, but day to day tasks have been tackled for decades. You may recognize the figure in the image above from a history or mythology class. Pictured is Sisyphus, punished by the Greek gods with the task of rolling a boulder up a hill for eternity, cursed to never reach the top. Sisyphus is too busy with the same boulder he has struggled with for years to push new features for his consumer web application. 
+In programming, novel problems still abound on the fringes, but day to day tasks have been tackled for decades. You may recognize the figure in the image to the left from a history or mythology class. Pictured is Sisyphus, punished by the Greek gods with the task of rolling a boulder up a hill for eternity, cursed to never reach the top. Sisyphus is too busy with the same boulder he has struggled with for years to push new features for his consumer web application. 
 
 This isn't to say he needs to copy code off of Stack Overflow. Design Patterns give a framework for solving a problem, not the tool itself. If I have a popped nail in my drywall, a Design pattern is the friendly Home Depot Associate recommending I purchase a hammer, spackle and paint. Design patterns also allow better communication with peers, a new language for problem solving once you have learned them. All of this allows time to be spent in areas that actually need it, not reinventing the wheel.
 
