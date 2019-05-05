@@ -21,7 +21,7 @@ Manoa Munchies is a webapp created along with a team of four other ICS students 
 
 I did a mix of work throughout the course of the project, dabbling in all areas. Initially I created the MongoDB collections we used for user preferences and Vendor attributes. I implemented functionality for several pages including top picks, the user profile page, and the sign up form. I spent a lot of time on the backend aspects of the system, making sure that users were differentiated by the "customer" and "vendor" roles and all of the collections could work properly together. It was also my responsibility to verify and deploy each release to Galaxy. 
 
-<img class="ui large center image src="../images/manoatoppicks.png">
+<img class="ui large center image" src="../images/manoatoppicks.png">
 
 This project was my first time creating an app as large as this and it was a grat experience. I had many issues crop up that I never would have guessed; you just can't prepare for the side effects of this many "moving parts" without doing it. I really enjoyed using Semantic UI React which had excellent documentation, and then I got the opposite end of the spectrum using some more niche components that had very poor documentation. It made me really value good documentation in a way that I hadn't previously. In the end it was great to work on something I think people would actually use, given some more time invested. 
 
