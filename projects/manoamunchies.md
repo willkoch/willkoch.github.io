@@ -26,7 +26,8 @@ I did a mix of work throughout the course of the project, dabbling in all areas.
 This project was my first time creating an app as large as this and it was a great experience. I had many issues crop up that I never would have guessed; you just can't prepare for the side effects of this many "moving parts" without doing it. I really enjoyed using Semantic UI React which had excellent documentation, and then I got the opposite end of the spectrum using some more niche components that had very poor documentation. It made me really value good documentation in a way that I hadn't previously. In the end it was rewarding to work on something I think people would actually use, given some more time invested. 
 
 <div class="ui center aligned segment">
-  
+
+<center><h3><a href="http://munchiesmanoa.meteorapp.com/#/">[Website]</a></h3></center>
 <center><h3><a href="https://github.com/munchyco/manoa-munchies">[Github Repository]</a></h3></center>
 <center><h3><a href="https://munchyco.github.io/">[Documentation]</a></h3></center>
 
