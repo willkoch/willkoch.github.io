@@ -1,13 +1,6 @@
-# ---
-# layout: essay
-# type: essay
-# title: Hopes and Dreams for Software Engineering
-# All dates must be YYYY-MM-DD format!
-# date: 2019-01-17
-# labels:
-#   - Software Engineering
-#   - Goals
-# ---
+
+title: Hopes and Dreams for Software Engineering
+
 
 ## Background
 
