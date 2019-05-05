@@ -27,8 +27,8 @@ This project was my first time creating an app as large as this and it was a gre
 
 <div class="ui center aligned segment">
   
-<h3><a href="https://github.com/munchyco/manoa-munchies">[Github Repository]</a></h3>
-<h3><a href="https://munchyco.github.io/">[Documentation]</a></h3>
+<center><h3><a href="https://github.com/munchyco/manoa-munchies">[Github Repository]</a></h3></center>
+<center><h3><a href="https://munchyco.github.io/">[Documentation]</a></h3></center>
 
 </div>
 
